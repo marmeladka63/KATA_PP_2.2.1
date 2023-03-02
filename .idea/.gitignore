@@ -6,3 +6,6 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+.idea/
+/spring-hibernate.iml
+/spring_hibernate.iml
